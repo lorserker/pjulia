@@ -1,0 +1,98 @@
+body {
+	margin-bottom: 0px;
+	font-family: Verdana;
+	font-size: 11px;
+	font-style: normal;
+	line-height: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	color: #525252;
+}
+
+p: {
+	font-family: Verdana;
+	font-size: 11px;
+	font-weight: bold;  
+	color: #525252;
+}
+
+a:link {
+	color: #b9b9b9;
+	font-family: Verdana;
+	font-size: 11px;
+	font-weight: bold;        
+}
+a:hover {
+	color: #E80000;
+	font-family: verdana;
+	font-size: 11px;
+	font-weight: bold;
+	font-style: normal;
+	line-height: normal;
+	font-variant: normal;
+	text-transform: none;
+	border: thin none #FFFFFF;
+	text-decoration: underline;
+}
+a:visited {
+	color: #AFAFAF;
+	font-family: verdana;
+	font-size: 11px;
+	font-weight: bold;
+	font-style: normal;
+
+}
+td, textarea, input, select {
+	font-family: Verdana;
+	font-size: 11px;
+	color: #666666;
+	font-weight: normal;
+}
+.tableDetail {
+	font-size: 11px;
+	font-family: Verdana;
+	color: #49394E;
+}
+.text1 {
+	font-family: Verdana;
+	font-size: 11px;
+	color: 666666;
+	font-weight: bold;
+}
+.text2 {
+	font-family: Verdana;
+	font-size: 11px;
+	font-weight: normal;
+	color: #FFFFFF;
+}
+.text3 {
+	font-family: Verdana;
+	font-size: 10px;
+	font-weight: normal;
+	color: 3C7592;
+}
+.frame {
+	font-family: Verdana;
+	font-size: 10px;
+	color: #FE6400;
+	border: 1px solid #b9b9b9;
+}
+.text4 {
+	font-family: Verdana;
+	font-size: 10px;
+	font-weight: bold;
+	color: #FF7216;
+}
+.designed_by {
+	font-family: verdana;
+	font-size: 9px;
+	font-weight: normal;
+	color: #FFFFFF;
+}
+.text5 {
+	font-family: Verdana;
+	font-size: 10px;
+	font-weight: bold;
+	color: #989898;
+}
